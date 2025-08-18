@@ -21,3 +21,4 @@ elif operator == '/':
 
 #Displaying the results of the operations to the console
 print(f"The result of {num1} {operator} {num2} is {result}")
+print("Just made the first simple calculator program!!")
