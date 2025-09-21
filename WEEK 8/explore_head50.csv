@@ -1,0 +1,21 @@
+cord_uid,title,abstract,publish_time,journal,authors,source_x,publish_time_parsed,year
+uid_1,COVID-19 vaccine development,This paper explores research on vaccines for COVID-19.,2020-02-09,JAMA,Author A et al.,Elsevier,2020-02-09,2020
+uid_2,Impact of social distancing on virus spread,Study on how social distancing reduced infection rates.,2022-07-14,Cell Reports,Author B et al.,PubMed,2022-07-14,2022
+uid_3,SARS-CoV-2 genome sequencing,Genome sequencing reveals mutations in SARS-CoV-2.,2022-08-14,Science,Author C et al.,arXiv,2022-08-14,2022
+uid_4,AI in detecting COVID-19 cases,Artificial intelligence tools for early case detection.,2020-02-14,The Lancet,Author D et al.,WHO,2020-02-14,2020
+uid_5,Mental health during pandemic,The pandemic's effect on global mental health outcomes.,2021-11-21,The Lancet,Author E et al.,medRxiv,2021-11-21,2021
+uid_6,Global response to coronavirus,An overview of international responses to coronavirus spread.,2021-08-14,JAMA,Author F et al.,PubMed,2021-08-14,2021
+uid_7,COVID-19 transmission dynamics,Models of COVID-19 transmission and control strategies.,2022-03-12,NEJM,Author G et al.,medRxiv,2022-03-12,2022
+uid_8,Vaccine hesitancy challenges,Challenges of vaccine hesitancy in global populations.,2021-05-12,Cell Reports,Author H et al.,medRxiv,2021-05-12,2021
+uid_9,Lockdown effects on environment,Environmental changes due to reduced human activity.,2021-04-19,NEJM,Author I et al.,PubMed,2021-04-19,2021
+uid_10,Clinical trials for COVID-19 treatment,Clinical trials evaluating treatments for COVID-19 patients.,2021-12-20,The Lancet,Author J et al.,medRxiv,2021-12-20,2021
+uid_11,Variants of concern in 2021,Analysis of variants of concern across multiple countries.,2021-09-11,BMJ,Author K et al.,arXiv,2021-09-11,2021
+uid_12,Long COVID and patient recovery,Patient recovery challenges from long COVID symptoms.,2020-05-10,Nature,Author L et al.,Elsevier,2020-05-10,2020
+uid_13,Effectiveness of face masks,Study on mask effectiveness in preventing transmission.,2022-06-21,Nature,Author M et al.,PubMed,2022-06-21,2022
+uid_14,Economic impact of COVID-19,Economic challenges during and after the pandemic.,2020-03-27,Nature,Author N et al.,PubMed,2020-03-27,2020
+uid_15,Telemedicine during pandemic,Telemedicine adoption during health system disruptions.,2020-12-22,Science,Author O et al.,medRxiv,2020-12-22,2020
+uid_16,COVID-19 in children,COVID-19 cases and outcomes in pediatric populations.,2020-06-01,JAMA,Author P et al.,WHO,2020-06-01,2020
+uid_17,International travel restrictions,Impact of international travel bans on virus spread.,2020-04-18,Cell Reports,Author Q et al.,Elsevier,2020-04-18,2020
+uid_18,Healthcare worker safety,Research on safety measures for healthcare workers.,2020-12-24,BMJ,Author R et al.,arXiv,2020-12-24,2020
+uid_19,Digital contact tracing,Digital contact tracing and privacy concerns.,2022-02-06,NEJM,Author S et al.,Elsevier,2022-02-06,2022
+uid_20,Future pandemic preparedness,Strategies for better preparedness in future pandemics.,2022-08-18,JAMA,Author T et al.,WHO,2022-08-18,2022
